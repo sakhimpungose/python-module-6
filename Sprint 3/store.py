@@ -1,5 +1,3 @@
-import matplotlib.pyplot as plt
-import numpy as np
 import pymysql
 
 db = pymysql.connect(user='root', password='Qq123456', host='127.0.0.1',database='store')
